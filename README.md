@@ -40,19 +40,11 @@ Still learning, still experimenting, and definitely just getting started.
 
 ## 📊 Github Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=avnii29\&theme=tokyonight\&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165">
+![](https://github-readme-streak-stats.herokuapp.com/?user=avnii29\&theme=tokyonight\&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" height="165">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165">
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avnii29E\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
