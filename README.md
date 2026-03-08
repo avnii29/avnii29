@@ -15,7 +15,6 @@ Still learning, still experimenting, and definitely just getting started.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/avni-%E2%80%8Er%E2%80%8E-52188b355/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat\&logo=gmail\&logoColor=white)](mailto:r.avni0308@gmail.com)
 
 ---
 
@@ -41,11 +40,19 @@ Still learning, still experimenting, and definitely just getting started.
 
 ## 📊 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" height="165">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165">
+
+</p>
 
 ---
 
