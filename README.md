@@ -44,7 +44,7 @@ Still learning, still experimenting, and definitely just getting started.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avnii29\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avnii29E\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avnii29\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
